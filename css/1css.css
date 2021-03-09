@@ -1,0 +1,16 @@
+/* this is my first css file */
+
+.intro {
+    color:blue;
+    font-size: -12px;
+    border: indigo;
+}
+
+    body {
+    background-color: lightblue;
+      }
+
+.green {
+    color:greenyellow;
+    font-size: -12px;
+}
